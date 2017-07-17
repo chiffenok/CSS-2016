@@ -2,7 +2,7 @@
 ## Computational Social Science 
 Computational Social Science: “The science that investigates social phenomena through the medium of computing and algorithmic data processing.” [adapted from CSSSA]
 
-This course was part of my master program. You can check out my IPython motebooks with solution for this course below:
+This course was part of my master program. Working on this course, I used Python (packages: pandas, scipy, networkx, matplotlib).  You can check out my IPython motebooks with solutions for this course below:
 
 ##### Assigment 1
 * [All task](http://nbviewer.jupyter.org/github/chiffenok/CSS-2016/blob/master/Anna_Presnyakova_ass1-CSS2016.ipynb). Topic: Analyzing Affiliation Networks and Social Networks
